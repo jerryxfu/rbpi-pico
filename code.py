@@ -4,7 +4,7 @@ import digitalio
 
 print("Hello, World!")
 
-# Initialize the onboard LED
+# Initialize the LED
 led = digitalio.DigitalInOut(board.LED)
 led.direction = digitalio.Direction.OUTPUT
 
