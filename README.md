@@ -3,6 +3,7 @@
 - **code.py**: main code file
 - **deploy.bat**: script to push code to Pico
 
+[https://circuitpython.org/libraries](https://circuitpython.org/libraries)
 [https://datasheets.raspberrypi.com/picow/pico-2-w-pinout.pdf](https://datasheets.raspberrypi.com/picow/pico-2-w-pinout.pdf)
 
 ```bash
