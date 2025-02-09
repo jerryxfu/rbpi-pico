@@ -6,3 +6,7 @@
 ```bash
 pip install circuitpython-stubs
 ```
+
+```bash
+pip install -r requirements.txt
+```
